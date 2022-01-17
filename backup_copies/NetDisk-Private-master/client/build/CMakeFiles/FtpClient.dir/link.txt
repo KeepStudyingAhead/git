@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/FtpClient.dir/src/encrypt.cpp.o CMakeFiles/FtpClient.dir/src/transFile.cpp.o CMakeFiles/FtpClient.dir/src/client.cpp.o  -o FtpClient -rdynamic -lpthread -lcrypt -lcrypto 

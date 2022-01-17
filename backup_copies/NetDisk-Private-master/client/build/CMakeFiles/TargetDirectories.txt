@@ -1,0 +1,3 @@
+/home/ycx/C++/FTPserver_test/NetDisk-Private-master/client/build/CMakeFiles/edit_cache.dir
+/home/ycx/C++/FTPserver_test/NetDisk-Private-master/client/build/CMakeFiles/rebuild_cache.dir
+/home/ycx/C++/FTPserver_test/NetDisk-Private-master/client/build/CMakeFiles/FtpClient.dir

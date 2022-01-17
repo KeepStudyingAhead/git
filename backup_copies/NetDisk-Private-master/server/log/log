@@ -1,0 +1,97 @@
+this is log
+client 10.141.30.148 45748 connect Thu Oct 14 21:58:33 2021
+client 10.141.30.148 45756 connect Thu Oct 14 22:00:31 2021
+client 10.141.30.148 45758 connect Thu Oct 14 22:00:52 2021
+client 10.141.30.148 55254 connect Thu Nov  4 16:39:24 2021
+client 10.141.30.148 55272 connect Thu Nov  4 16:41:03 2021
+client 10.141.30.148 55282 connect Thu Nov  4 16:41:57 2021
+user1: mkdir Thu Nov  4 16:42:13 2021
+client 10.141.30.148 55284 connect Thu Nov  4 16:42:33 2021
+user1: mkdir Thu Nov  4 16:42:51 2021
+client 10.141.30.148 54782 connect Thu Nov  4 22:12:14 2021
+user1: mkdir Thu Nov  4 22:12:36 2021
+client 10.141.30.148 54800 connect Thu Nov  4 22:12:46 2021
+client 10.141.30.148 54826 connect Thu Nov  4 22:14:13 2021
+user1: ls Thu Nov  4 22:14:24 2021
+client 10.141.30.148 54924 connect Thu Nov  4 22:18:28 2021
+user1: pwd Thu Nov  4 22:18:39 2021
+user1: ls Thu Nov  4 22:18:51 2021
+client 10.141.30.148 43578 connect Tue Nov 16 11:03:37 2021
+user1: ls Tue Nov 16 11:03:51 2021
+client 10.141.30.148 43588 connect Tue Nov 16 11:04:24 2021
+user2: mkdir Tue Nov 16 11:04:53 2021
+client 10.141.30.148 43598 connect Tue Nov 16 11:05:03 2021
+user1: cd  Tue Nov 16 11:05:17 2021
+client 10.141.30.148 43608 connect Tue Nov 16 11:05:33 2021
+user1: ls Tue Nov 16 11:06:57 2021
+client 10.141.30.148 43724 connect Tue Nov 16 11:12:09 2021
+user1: pwd Tue Nov 16 11:12:20 2021
+user1: cd user1 Tue Nov 16 11:12:28 2021
+client 10.141.30.148 43742 connect Tue Nov 16 11:13:21 2021
+user1: pwd Tue Nov 16 11:13:28 2021
+client 10.141.30.148 51630 connect Tue Nov 16 16:32:26 2021
+user2: pwd Tue Nov 16 16:32:45 2021
+user2: ls Tue Nov 16 16:32:51 2021
+client 10.141.30.148 54016 connect Tue Nov 16 19:00:32 2021
+user1: ls Tue Nov 16 19:00:42 2021
+user1: pwd Tue Nov 16 19:00:57 2021
+client 10.141.30.148 54026 connect Tue Nov 16 19:01:13 2021
+user1: mkdir Tue Nov 16 19:01:26 2021
+client 10.141.30.148 54122 connect Tue Nov 16 19:07:42 2021
+user1: mkdir Tue Nov 16 19:07:55 2021
+user1: mkdir Tue Nov 16 19:08:06 2021
+user1: mkdir Tue Nov 16 19:08:12 2021
+user1: cd dir1 Tue Nov 16 19:08:30 2021
+user1: pwd Tue Nov 16 19:08:32 2021
+user1: cd .. Tue Nov 16 19:08:37 2021
+user1: pwd Tue Nov 16 19:08:40 2021
+user1: pwd Tue Nov 16 19:09:06 2021
+user1: ls Tue Nov 16 19:09:11 2021
+client 10.141.30.148 54148 connect Tue Nov 16 19:09:49 2021
+user1: ls Tue Nov 16 19:09:57 2021
+client 10.141.30.148 54282 connect Tue Nov 16 19:16:58 2021
+user1: ls Tue Nov 16 19:17:09 2021
+user1: pwd Tue Nov 16 19:17:11 2021
+user1: puts /home/ycx/桌面/Local_IP Tue Nov 16 19:17:52 2021
+client 10.141.30.148 54296 connect Tue Nov 16 19:17:52 2021
+user1: ls Tue Nov 16 19:17:58 2021
+user1: cd fir1 Tue Nov 16 19:18:19 2021
+user1: cd dir1 Tue Nov 16 19:18:27 2021
+user1: ls Tue Nov 16 19:18:28 2021
+client 10.141.30.148 54320 connect Tue Nov 16 19:19:00 2021
+user1: ls Tue Nov 16 19:19:12 2021
+client 10.141.30.148 54326 connect Tue Nov 16 19:19:28 2021
+client 10.141.30.148 54332 connect Tue Nov 16 19:19:55 2021
+client 10.141.30.148 54334 connect Tue Nov 16 19:20:07 2021
+client 10.141.30.148 54408 connect Tue Nov 16 19:24:19 2021
+client 10.141.30.148 54518 connect Tue Nov 16 19:30:52 2021
+user1: puts /home/ycx/桌面/Local_IP Tue Nov 16 19:31:22 2021
+client 10.141.30.148 54528 connect Tue Nov 16 19:31:22 2021
+user1: ls Tue Nov 16 19:31:26 2021
+user1: pwd Tue Nov 16 19:31:37 2021
+client 10.141.30.148 54534 connect Tue Nov 16 19:32:02 2021
+user1: puts /home/ycx/桌面/Local_IP.txt Tue Nov 16 19:32:19 2021
+client 10.141.30.148 54544 connect Tue Nov 16 19:32:52 2021
+client 10.141.30.148 54546 connect Tue Nov 16 19:33:06 2021
+client 10.141.30.148 54590 connect Tue Nov 16 19:36:18 2021
+user2: ls Tue Nov 16 19:36:26 2021
+user2: pwd Tue Nov 16 19:36:29 2021
+client 10.141.30.148 54600 connect Tue Nov 16 19:36:41 2021
+user1: ls Tue Nov 16 19:36:56 2021
+user1: gets Local_IP Tue Nov 16 19:37:17 2021
+client 10.141.30.148 54606 connect Tue Nov 16 19:37:17 2021
+user1: cd  Tue Nov 16 19:37:57 2021
+user1: ls Tue Nov 16 19:38:03 2021
+user1: remove Local_IP Tue Nov 16 19:38:12 2021
+client 10.141.30.148 54624 connect Tue Nov 16 19:38:17 2021
+USER1: ls Tue Nov 16 19:38:28 2021
+client 10.141.30.148 54628 connect Tue Nov 16 19:38:43 2021
+user1: ls Tue Nov 16 19:38:52 2021
+user1: pwd Tue Nov 16 19:38:59 2021
+user1: cd dir1 Tue Nov 16 19:39:13 2021
+user1: pwd Tue Nov 16 19:39:16 2021
+user1: ls Tue Nov 16 19:39:38 2021
+user1: puts /home/ycx/桌面/Local_IP Tue Nov 16 19:40:02 2021
+client 10.141.30.148 54646 connect Tue Nov 16 19:40:02 2021
+user1: ls Tue Nov 16 19:40:06 2021
+client 10.141.30.148 54648 connect Tue Nov 16 19:40:22 2021

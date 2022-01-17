@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lst_timer.h": "c",
+        "*.tcc": "c",
+        "string": "cpp"
+    }
+}
